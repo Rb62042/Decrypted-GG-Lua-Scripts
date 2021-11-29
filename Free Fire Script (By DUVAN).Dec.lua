@@ -1,5 +1,5 @@
 -- Dec By Top GEO..
-gg.toast("CREADOR DEL SCRIPT DUVAN GAMESYT")
+gg.toast("ᴛᴇᴀᴍ࿐PB script ")
 function name(A0_6)
   if _UPVALUE0_ ~= A0_6 then
     _UPVALUE0_ = A0_6
@@ -96,9 +96,9 @@ function replaced(A0_12)
 end
 
 if gg.alert([[
-Creado por Duvan GamesYT 
+ᴛᴇᴀᴍ࿐PB script 
 
-]] .. "\n•Suscribete a mi canal de Youtube Duvan GamesYT\n\n \n¿QUIERES USARLO?\n  \n\n", "[ SI ]      ", " [ NO ]      ") ~= 1 then
+]] .. "\join ᴛᴇᴀᴍ࿐PB script telegram channel  ") ~= 1 then
   os.exit()
 end
 function START()
@@ -114,7 +114,7 @@ function START()
     "DESBANEO DE CELULAR📱",
     "DESBANEO DE CELULAR 2.0📱",
     "✖SALIR✖"
-  }, nil, " HECHO POR DUVAN GAMESYT ")
+  }, nil, " ᴛᴇᴀᴍ࿐PB script  ")
   if menu == 1 then
     fantasma()
   end
@@ -274,7 +274,7 @@ function personajes()
     "CUERPOS BLANCOS👻",
     "BOTIQUIN EN MOVIMIENTO",
     "🔙ATRAS"
-  }, nil, "MENU PERSONAJE BY DUVAN GAMESYT")
+  }, nil, "")
   if menuch1 == nil then
   else
     if menuch1[1] == true then
@@ -837,7 +837,7 @@ function a7()
     gg.clearResults()
     os.remove(gg.EXT_STORAGE .. "/Android/data/com.dts.freefireth/files/reportnew.db", gg.LOAD_APPEND)
     os.remove(gg.EXT_STORAGE .. "/Android/data/com.dts.freefireth/files/ymrtc_log.txt", gg.LOAD_APPEND)
-    os.remove(gg.EXT_STORAGE .. "/ᴍᴜʜᴀᴍᴀᴅɢᴀᴍᴇʀ.ʟᴜᴀ")
+    os.remove(gg.EXT_STORAGE .. "ᴛᴇᴀᴍ࿐PB script.lua")
     imeig = "〘 ON 〙"
   elseif imeig == "〘 ON 〙" then
     gg.clearResults()
@@ -849,7 +849,7 @@ function a7()
     gg.clearResults()
     os.remove(gg.EXT_STORAGE .. "/Android/data/com.dts.freefireth/files/reportnew.db", gg.LOAD_APPEND)
     os.remove(gg.EXT_STORAGE .. "/Android/data/com.dts.freefireth/files/ymrtc_log.txt", gg.LOAD_APPEND)
-    os.remove(gg.EXT_STORAGE .. "/ᴍᴜʜᴀᴍᴀᴅɢᴀᴍᴇʀ.ʟᴜᴀ")
+    os.remove(gg.EXT_STORAGE .. "/ᴛᴇᴀᴍ࿐PB script.lus")
     imeig = "〘 OFF 〙"
   end
 end
@@ -866,7 +866,7 @@ function b7()
     gg.clearResults()
     os.remove(gg.EXT_STORAGE .. "/Android/data/com.dts.freefireth/files/reportnew.db", gg.LOAD_APPEND)
     os.remove(gg.EXT_STORAGE .. "/Android/data/com.dts.freefireth/files/ymrtc_log.txt", gg.LOAD_APPEND)
-    os.remove(gg.EXT_STORAGE .. "/ᴍᴜʜᴀᴍᴀᴅɢᴀᴍᴇʀ.ʟᴜᴀ")
+    os.remove(gg.EXT_STORAGE .. "ᴛᴇᴀᴍ࿐PB script")
     meidv = "〘 ON 〙"
   elseif meidv == "〘 ON 〙" then
     gg.clearResults()
@@ -878,7 +878,7 @@ function b7()
     gg.clearResults()
     os.remove(gg.EXT_STORAGE .. "/Android/data/com.dts.freefireth/files/reportnew.db", gg.LOAD_APPEND)
     os.remove(gg.EXT_STORAGE .. "/Android/data/com.dts.freefireth/files/ymrtc_log.txt", gg.LOAD_APPEND)
-    os.remove(gg.EXT_STORAGE .. "/ᴍᴜʜᴀᴍᴀᴅɢᴀᴍᴇʀ.ʟᴜᴀ")
+    os.remove(gg.EXT_STORAGE .. "/ᴛᴇᴀᴍ࿐PB script")
     meidv = "〘 OFF 〙"
   end
 end
@@ -895,7 +895,7 @@ function c7()
     gg.clearResults()
     os.remove(gg.EXT_STORAGE .. "/Android/data/com.dts.freefireth/files/reportnew.db", gg.LOAD_APPEND)
     os.remove(gg.EXT_STORAGE .. "/Android/data/com.dts.freefireth/files/ymrtc_log.txt", gg.LOAD_APPEND)
-    os.remove(gg.EXT_STORAGE .. "/ᴍᴜʜᴀᴍᴀᴅɢᴀᴍᴇʀ.ʟᴜᴀ")
+    os.remove(gg.EXT_STORAGE .. "/ᴛᴇᴀᴍ࿐PB script.lua")
     seriald = "〘 ON 〙"
   elseif seriald == "〘 ON 〙" then
     gg.clearResults()
@@ -907,14 +907,14 @@ function c7()
     gg.clearResults()
     os.remove(gg.EXT_STORAGE .. "/Android/data/com.dts.freefireth/files/reportnew.db", gg.LOAD_APPEND)
     os.remove(gg.EXT_STORAGE .. "/Android/data/com.dts.freefireth/files/ymrtc_log.txt", gg.LOAD_APPEND)
-    os.remove(gg.EXT_STORAGE .. "/ᴍᴜʜᴀᴍᴀᴅɢᴀᴍᴇʀ.ʟᴜᴀ")
+    os.remove(gg.EXT_STORAGE .. "/ᴛᴇᴀᴍ࿐PB script.Lua")
     seriald = "〘 OFF 〙"
   end
 end
 
 function exit()
   gg.setVisible(true)
-  print(os.date("📅 %A %d %B %Y\n🕐 %H:%M:%S\n  ﹃﹄﹃﹄⚡Susribete a canal de YT/Duvan GamesYT⚡ ﹃﹄﹃﹄"))
+  print(os.date("📅 %A %d %B %Y\n🕐 %H:%M:%S\n  ﹃﹄﹃﹄⚡Susribete a channel ᴛᴇᴀᴍ࿐PB⚡ ﹃﹄﹃﹄"))
   os.remove(gg.EXT_STORAGE .. "/Android/data/com.dts.freefireth/files/reportnew.db", gg.LOAD_APPEND)
   os.remove(gg.EXT_STORAGE .. "/Android/data/com.dts.freefireth/files/ymrtc_log.txt", gg.LOAD_APPEND)
   os.remove(gg.EXT_STORAGE .. "/ᴍᴜʜᴀᴍᴀᴅɢᴀᴍᴇʀ.ʟᴜᴀ")
